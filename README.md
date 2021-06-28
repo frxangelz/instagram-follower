@@ -1,5 +1,5 @@
-# instagram-unfollower
-Instagram Unfollower Chrome Extension
+# instagram-follower
+Instagram follower Chrome Extension
 
 very simple macro to Follow anyone on instagram, use with random interval so it looks like normal user's activity
 you can set min-max interval between follow action( in seconds ), to make it more random, you should keep interval between 5-30.
