@@ -1,0 +1,38 @@
+{
+  "name": "Instagram : Simple Autofollow !",
+  "background": {
+        "scripts": [
+            "background.js"
+        ]
+    },
+  "version": "0.0.1",
+  "manifest_version": 2,
+  "description": "very simple Macro AutoFollow someone's followers for Instagram",
+  "homepage_url": "https://www.youtube.com/c/freeangelz?sub_confirmation=1",
+  "icons": {
+    "16": "icons/icon16.png",
+    "48": "icons/icon48.png",
+    "128": "icons/icon128.png"
+  },
+  "default_locale": "en",
+  "browser_action": {
+    "default_icon": "icons/icon19.png",
+    "default_title": "Instagram simple follower",
+    "default_popup": "popup/browser_action.html"
+  },
+  "permissions": [
+    "background",
+    "http://*.instagram.com/*",
+    "https://instagram.com/*"
+  ],
+  "content_scripts": [
+    {
+      "matches": [
+        "<all_urls>"
+      ],
+      "js": [
+        "inject.js"
+      ]
+    }
+  ]
+}
