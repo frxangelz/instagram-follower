@@ -9,8 +9,8 @@ this script will only follow accounts who meets the specified criteria, with min
 the extension may not work in the future if Instagram changes their layout, in this case, you should subscribe my channel to get an update for the new script
 Or You can watch my youtube video how to do that.
 
-demo :
-https://www.youtube.com/watch?v=j8HEDAAw30g
+demo and how to:
+https://www.youtube.com/watch?v=Y3BWHyuYYxI
 
-my youtube channel :
-https://www.youtube.com/c/freeangelz?sub_confirmation=1
+Please subscribe (Newbie Computer) :
+https://www.youtube.com/channel/UCqRqvw9n7Lrh79x3dRDOkDg
